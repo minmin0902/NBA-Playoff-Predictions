@@ -33,13 +33,6 @@ The analysis utilizes publicly available NBA data, including:
 - **ggplot2:** For data visualization.
 - **dplyr:** For data manipulation.
 
-## How to Run
-
-To replicate the analysis:
-1. Clone this repository.
-2. Open the `playoffs_project.Rmd` file in RStudio.
-3. Run the code chunks sequentially to generate the analysis and visualizations.
-
 ## Results
 
 Key insights from the analysis include:
@@ -47,15 +40,3 @@ Key insights from the analysis include:
 - Trends in team performance over different seasons.
 - Predictive models for playoff outcomes.
 
-## Acknowledgements
-
-- This project is a part of a data science challenge focused on NBA data analysis.
-- Special thanks to the data providers and open-source contributors who made this analysis possible.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to modify the content to better suit your specific project details!
