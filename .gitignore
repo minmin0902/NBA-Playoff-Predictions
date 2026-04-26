@@ -1,0 +1,30 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+*-Ex.R
+*.utf8.md
+*.knit.md
+
+# RStudio cache
+.Rproj.user/
+
+# Knit cache / files
+*_cache/
+*_files/
+
+# Data files (provided per-assessment, not committed)
+team_game_data.csv
+player_game_data.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
